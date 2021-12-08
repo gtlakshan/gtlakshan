@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @gtlakshan
 - 👀 I’m interested in Mobile game dev.
 - 🌱 I’m currently learning C# Programming
-- 💞️ I’m looking to collaborate on ......
+- 💞️ I’m looking to collaborate on ....
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
