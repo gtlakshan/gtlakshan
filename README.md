@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/17518396/gt-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gt-lakshan" height="30" width="40" /></a>
 <a href="https://instagram.com/gt_lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gt_lakshan_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYkEDRR_8txAIOWtL05W5OA" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="gt_lakshan_" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Infinity+Stock" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="InfinityStock" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Infinity+Stock" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="InfinityStock" height="30" width="40" /></a>
 
  
 <h2 align="left">🚀 Some Tools I Use</h2>
